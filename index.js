@@ -18,5 +18,5 @@ client.on("messageCreate", (message) => {
     if (param1 === 'hola') message.reply('hola papito :point_right::point_left: :flushed:')
   }
 })
-
+//a
 client.login(TOKEN)
